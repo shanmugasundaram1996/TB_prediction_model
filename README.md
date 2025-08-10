@@ -3,7 +3,7 @@ Tuberculosis Detection from Chest X-rays
 This project presents a deep learning-based solution for **automated Tuberculosis (TB) diagnosis** using chest X-ray images. The goal is to assist medical professionals by providing a fast, reliable, and accessible diagnostic tool, especially in resource-constrained settings.
 
  Dataset Sources
-The model was trained using two publicly available datasets from [Kaggle](https://www.kaggle.com/):
+The model was trained using two publicly available datasets from Kaggle:
    TB Chest X-ray Dataset**: Contains labeled images of patients diagnosed with tuberculosis.
    Normal Chest X-ray Dataset**: Contains X-rays of healthy individuals.
 
