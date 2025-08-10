@@ -35,4 +35,3 @@ Ubuntu OS: Chosen for its stability and compatibility with deployment tools
 Users can upload chest X-ray images and receive instant predictions on whether the image indicates TB or not.
 
 
-Would you like me to help you write a usage guide or add badges and visuals to make your README even more compelling?
